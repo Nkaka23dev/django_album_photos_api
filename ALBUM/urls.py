@@ -21,7 +21,7 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
    openapi.Info(
-      title="ALBUM  PHOTOS API",
+      title="ALBUM  PHOTOS API::~BY NKAKA",
       default_version='v1',
       description='''API to get album photos by ID, click on the end point below and 
       provide ID to get album photos by that ID.''',
